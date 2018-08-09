@@ -20,6 +20,7 @@
   "homepage": "https://github.com/ReactJSResources/react-webpack-babel#readme",
   "dependencies": {
     "babel-polyfill": "6.26.0",
+    "gsap": "^2.0.1",
     "normalize.css": "^7.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
@@ -61,7 +62,7 @@
     "url-loader": "^0.6.2",
     "webpack": "^3.10.0",
     "webpack-cleanup-plugin": "^0.5.1",
-    "webpack-dashboard": "^1.0.2",
+    "webpack-dashboard": "^2.0.0",
     "webpack-dev-server": "^2.9.4"
   },
   "jest": {
